@@ -55,8 +55,6 @@ fun_fact: "I edit frames before I edit code."
 
 <img src="https://raw.githubusercontent.com/shakir4mahmud/shakir4mahmud/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚠️ Snake animation auto-generates once the GitHub Action below is set up in this repo (see notes at bottom)</sub>
-
 ## 🎞️ Trophy Case
 
 <img src="https://github-profile-trophy.vercel.app/?username=shakir4mahmud&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
