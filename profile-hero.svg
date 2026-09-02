@@ -68,7 +68,7 @@
     <text x="450.0" y="70" text-anchor="middle" class="title">SHAKIR MAHMUD</text>
     <line class="rule" x1="340.0" y1="86" x2="560.0" y2="86" stroke="#2EC4B6" stroke-width="1.4"/>
     <text x="450.0" y="114" text-anchor="middle" class="sub subline sub1">full-stack developer</text>
-    <text x="450.0" y="114" text-anchor="middle" class="sub subline sub2">photographer &amp; visual storyteller</text>
+    <text x="450.0" y="114" text-anchor="middle" class="sub subline sub2">problem solver &amp; visual storyteller</text>
     <text x="450.0" y="114" text-anchor="middle" class="sub subline sub3">ai enthusiast</text>
 
     <!-- separator sprockets -->
@@ -122,10 +122,10 @@
     <g class="mono-badge">
       <circle cx="111" cy="202" r="42" fill="url(#irisGrad)" stroke="#FF6B35" stroke-width="1.3" stroke-opacity=".6"/>
       <circle class="ring" cx="111" cy="202" r="53" fill="none" stroke="#2EC4B6" stroke-width="1.5" stroke-dasharray="4 8" stroke-opacity=".8"/>
-      <text x="111" y="211" text-anchor="middle" class="chip" font-size="21" font-weight="600" fill="#0D0D0D">SM</text>
+      <text x="111" y="211" text-anchor="middle" class="chip" font-size="21" font-weight="600" fill="#0D0D0D"></text>
     </g>
 
-    <text x="200" y="198" class="name">Full-stack dev &amp; photographer</text>
+    <text x="200" y="198" class="name">Full-stack dev &amp; MERN Developer</text>
 
     <text x="200" y="230" class="role r1"><tspan>&gt; building with react + ts</tspan><tspan class="cursor">_</tspan></text>
     <text x="200" y="230" class="role r2"><tspan>&gt; editing frames in the darkroom</tspan><tspan class="cursor">_</tspan></text>
@@ -149,6 +149,6 @@
     </g>
 
     <circle class="dot" cx="206" cy="282" r="4" fill="#2EC4B6"/>
-    <text x="218" y="286" class="status">open to freelance work</text>
+    <text x="218" y="286" class="status">Let’s create something remarkable</text>
   </g>
 </svg>
