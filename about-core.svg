@@ -1,0 +1,387 @@
+<svg width="520" height="560" viewBox="0 0 520 560"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080808"/>
+      <stop offset="55%" stop-color="#10151A"/>
+      <stop offset="100%" stop-color="#071313"/>
+    </linearGradient>
+
+    <!-- Main gradient -->
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF6B35"/>
+      <stop offset="50%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#2EC4B6"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+
+    <!-- Grid -->
+    <pattern id="grid"
+             width="26"
+             height="26"
+             patternUnits="userSpaceOnUse">
+      <path
+        d="M 26 0 L 0 0 0 26"
+        fill="none"
+        stroke="#2EC4B6"
+        stroke-opacity=".10"
+        stroke-width="1"/>
+    </pattern>
+
+    <!-- Clip -->
+    <clipPath id="screenClip">
+      <rect
+        x="48"
+        y="52"
+        width="424"
+        height="456"
+        rx="28"/>
+    </clipPath>
+
+  </defs>
+
+
+  <!-- BACKGROUND -->
+
+  <rect
+    x="10"
+    y="10"
+    width="500"
+    height="540"
+    rx="36"
+    fill="#050708"/>
+
+  <rect
+    x="14"
+    y="14"
+    width="492"
+    height="532"
+    rx="34"
+    fill="url(#bg)"
+    stroke="url(#edge)"
+    stroke-opacity=".55"
+    stroke-width="2"/>
+
+
+  <!-- FUTURISTIC GRID -->
+
+  <g clip-path="url(#screenClip)">
+    <rect
+      x="48"
+      y="52"
+      width="424"
+      height="456"
+      fill="url(#grid)"/>
+
+    <!-- moving scan -->
+    <rect
+      x="48"
+      y="60"
+      width="424"
+      height="3"
+      fill="#2EC4B6"
+      opacity=".7"
+      filter="url(#glow)">
+
+      <animate
+        attributeName="y"
+        values="60;500;60"
+        dur="5s"
+        repeatCount="indefinite"/>
+
+    </rect>
+  </g>
+
+
+  <!-- TOP STATUS BAR -->
+
+  <circle
+    cx="42"
+    cy="38"
+    r="5"
+    fill="#FF6B35">
+
+    <animate
+      attributeName="opacity"
+      values=".3;1;.3"
+      dur="1.8s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+  <text
+    x="58"
+    y="43"
+    font-family="monospace"
+    font-size="12"
+    letter-spacing="2"
+    fill="#8E9AA3">
+    DEV_CORE / ONLINE
+  </text>
+
+  <text
+    x="440"
+    y="43"
+    text-anchor="end"
+    font-family="monospace"
+    font-size="10"
+    fill="#2EC4B6">
+    2026
+  </text>
+
+
+  <!-- CENTRAL ORBIT -->
+
+  <circle
+    cx="260"
+    cy="170"
+    r="92"
+    fill="none"
+    stroke="#2EC4B6"
+    stroke-opacity=".17"
+    stroke-width="1"/>
+
+  <circle
+    cx="260"
+    cy="170"
+    r="112"
+    fill="none"
+    stroke="#FF6B35"
+    stroke-opacity=".11"
+    stroke-width="1"
+    stroke-dasharray="4 12">
+
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 260 170"
+      to="360 260 170"
+      dur="18s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- CORE -->
+
+  <circle
+    cx="260"
+    cy="170"
+    r="58"
+    fill="#071113"
+    stroke="url(#edge)"
+    stroke-width="2"
+    filter="url(#glow)"/>
+
+  <!-- core pulse -->
+
+  <circle
+    cx="260"
+    cy="170"
+    r="40"
+    fill="#2EC4B6"
+    opacity=".08">
+
+    <animate
+      attributeName="r"
+      values="40;52;40"
+      dur="2.8s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="opacity"
+      values=".04;.15;.04"
+      dur="2.8s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- CODE SYMBOL -->
+
+  <text
+    x="260"
+    y="181"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="45"
+    font-weight="700"
+    fill="#FFFFFF">
+    &lt;/&gt;
+  </text>
+
+
+  <!-- NAME -->
+
+  <text
+    x="260"
+    y="270"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="25"
+    font-weight="700"
+    letter-spacing="4"
+    fill="#FFFFFF">
+    SHAKIR
+  </text>
+
+  <text
+    x="260"
+    y="292"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="10"
+    letter-spacing="3"
+    fill="#FF6B35">
+    MAHMUD / DEVELOPER
+  </text>
+
+
+  <!-- DIVIDER -->
+
+  <line
+    x1="78"
+    y1="320"
+    x2="442"
+    y2="320"
+    stroke="url(#edge)"
+    stroke-opacity=".45"/>
+
+
+  <!-- INFO BLOCK -->
+
+  <text
+    x="82"
+    y="350"
+    font-family="monospace"
+    font-size="10"
+    fill="#2EC4B6">
+    CURRENT_MISSION
+  </text>
+
+  <text
+    x="82"
+    y="372"
+    font-family="monospace"
+    font-size="13"
+    fill="#EDEDED">
+    Build • Learn • Ship
+  </text>
+
+
+  <text
+    x="82"
+    y="405"
+    font-family="monospace"
+    font-size="10"
+    fill="#2EC4B6">
+    STACK
+  </text>
+
+  <text
+    x="82"
+    y="427"
+    font-family="monospace"
+    font-size="12"
+    fill="#FFFFFF">
+    JS / TS / React / Tailwind
+  </text>
+
+
+  <text
+    x="82"
+    y="460"
+    font-family="monospace"
+    font-size="10"
+    fill="#2EC4B6">
+    CREATIVE_MODE
+  </text>
+
+  <text
+    x="82"
+    y="482"
+    font-family="monospace"
+    font-size="12"
+    fill="#FFFFFF">
+    Photo • Film • AI
+  </text>
+
+
+  <!-- SIDE INDICATORS -->
+
+  <g opacity=".8">
+
+    <circle
+      cx="426"
+      cy="350"
+      r="4"
+      fill="#FF6B35">
+
+      <animate
+        attributeName="opacity"
+        values=".2;1;.2"
+        dur="1.5s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+    <circle
+      cx="426"
+      cy="405"
+      r="4"
+      fill="#2EC4B6">
+
+      <animate
+        attributeName="opacity"
+        values="1;.2;1"
+        dur="1.8s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+    <circle
+      cx="426"
+      cy="460"
+      r="4"
+      fill="#FFFFFF">
+
+      <animate
+        attributeName="opacity"
+        values=".2;1;.2"
+        dur="1.2s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+  </g>
+
+
+  <!-- FOOTER -->
+
+  <text
+    x="260"
+    y="525"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="9"
+    letter-spacing="2"
+    fill="#67747D">
+    SYSTEM_STATUS : LEARNING / BUILDING / EVOLVING
+  </text>
+
+</svg>
