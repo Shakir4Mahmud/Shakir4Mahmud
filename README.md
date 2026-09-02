@@ -38,25 +38,114 @@ fun_fact: "I edit frames before I edit code."
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=2EC4B6)
 ![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF6B35)
 
-## 📊 GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shakir4mahmud&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF6B35&icon_color=2EC4B6&text_color=EDEDED&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakir4mahmud&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF6B35&text_color=EDEDED&langs_count=8" />
-
+<!-- ══════════════════════════════════════════════ -->
+<!--           GITHUB ANALYTICS DASHBOARD           -->
+<!-- ══════════════════════════════════════════════ -->
+<!-- ── Analytics Section Header (decorative banner) ── -->
+<img src="./github-analytics.svg" width="100%" alt="GitHub Analytics"/>
+<!-- ── ROW 1: Summary Dashboard Cards (real-time) ── -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakir4mahmud&theme=radical" width="100%" alt="Profile Summary"/>
+<br/>
+<!-- ── ROW 2: Repos by Language + Most Commit Language + Stats ── -->
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakir4mahmud&theme=radical" width="100%" alt="Repos per Language"/>
+</td>
+<td width="33%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakir4mahmud&theme=radical" width="100%" alt="Most Commit Language"/>
+</td>
+<td width="33%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shakir4mahmud&theme=radical&utcOffset=6" width="100%" alt="Productive Time"/>
+</td>
+</tr>
+</table>
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shakir4mahmud&theme=radical&hide_border=true&background=0D0D0D&ring=FF6B35&fire=FF6B35&currStreakLabel=2EC4B6" />
-
+<!-- ── ROW 4: Streak (centered) ── -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakir4mahmud&theme=radical&hide_border=true&background=0D0D0D&ring=FF6B35&fire=FF6B35&currStreakLabel=2EC4B6&sideNums=EDEDED&sideLabels=888888&dates=666666" width="70%" alt="GitHub Streak"/>
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakir4mahmud&theme=react-dark&bg_color=0D0D0D&color=2EC4B6&line=FF6B35&point=FFFFFF&hide_border=true" width="95%"/>
 
-## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/Shakir4Mahmud/Shakir4Mahmud/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-## 🎞️ Trophy Case
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CONTRIBUTION SNAKE                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=shakir4mahmud&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<div align="center">
 
+<h2>🐍 Contribution Snake</h2>
+
+<p>
+  <sub>CODE • COMMIT • CONTRIBUTE</sub>
+</p>
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Shakir4Mahmud/Shakir4Mahmud/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="Shakir4Mahmud GitHub Contribution Snake"
+/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+<code>shakir@github:~$ git log --oneline --graph --all</code>
+
+<br><br>
+
+<strong>Every contribution leaves a trace.</strong>
+
+<br>
+
+<sub>
+The graph grows. The code evolves. The journey continues.
+</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p>
+  <code>LESS</code>
+  &nbsp;◼︎ ◼︎ ◼︎ ◼︎ ◼︎ ◼︎ ◼︎&nbsp;
+  <code>MORE</code>
+</p>
+
+<br>
+
+<p>
+  <a href="https://github.com/Shakir4Mahmud">
+    <img src="https://img.shields.io/badge/GITHUB-0b0f19?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Shakir4Mahmud/Shakir4Mahmud">
+    <img src="https://img.shields.io/badge/PROFILE-111827?style=for-the-badge&logo=github&logoColor=a855f7" />
+  </a>
+</p>
+
+<br>
+
+<p>
+  <sub>✦ Built with commits, curiosity & consistency ✦</sub>
+</p>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 ## 📫 Connect With Me
 
 <a href="mailto:shakirmahmud.co@gmail.com">
