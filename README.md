@@ -39,34 +39,38 @@ fun_fact: "I edit frames before I edit code."
 ![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF6B35)
 
 <!-- ══════════════════════════════════════════════ -->
-<!--           GITHUB ANALYTICS DASHBOARD           -->
+<!-- GITHUB ANALYTICS DASHBOARD -->
 <!-- ══════════════════════════════════════════════ -->
+
 <!-- ── Analytics Section Header (decorative banner) ── -->
 <img src="./github-analytics.svg" width="100%" alt="GitHub Analytics"/>
+
 <!-- ── ROW 1: Summary Dashboard Cards (real-time) ── -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakir4mahmud&theme=radical" width="100%" alt="Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakir4mahmud&theme=radical&name=Shakir%20Mahmud" width="100%" alt="Profile Summary"/>
 <br/>
+
 <!-- ── ROW 2: Repos by Language + Most Commit Language + Stats ── -->
 <table width="100%">
-<tr>
-<td width="33%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakir4mahmud&theme=radical" width="100%" alt="Repos per Language"/>
-</td>
-<td width="33%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakir4mahmud&theme=radical" width="100%" alt="Most Commit Language"/>
-</td>
-<td width="33%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shakir4mahmud&theme=radical&utcOffset=6" width="100%" alt="Productive Time"/>
-</td>
-</tr>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakir4mahmud&theme=radical" width="100%" alt="Repos per Language"/>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakir4mahmud&theme=radical" width="100%" alt="Most Commit Language"/>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shakir4mahmud&theme=radical&utcOffset=6" width="100%" alt="Productive Time"/>
+    </td>
+  </tr>
 </table>
 <br/>
 
 <!-- ── ROW 4: Streak (centered) ── -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakir4mahmud&theme=radical&hide_border=true&background=0D0D0D&ring=FF6B35&fire=FF6B35&currStreakLabel=2EC4B6&sideNums=EDEDED&sideLabels=888888&dates=666666" width="70%" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakir4mahmud&theme=radical&hide_border=true&background=0D0D0D&ring=FF6B35&fire=FF6B35&currStreakLabel=2EC4B6&sideNums=EDEDED&sideLabels=888888&dates=666666" width="70%" alt="GitHub Streak"/>
+</p>
 <br/><br/>
-
-
+<!-- ═══════════════════════════════════════════════════════════ -->
 <img
   src="https://raw.githubusercontent.com/Shakir4Mahmud/Shakir4Mahmud/output/github-contribution-grid-snake-dark.svg"
   width="100%"
