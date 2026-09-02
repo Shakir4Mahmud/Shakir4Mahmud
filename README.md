@@ -67,83 +67,11 @@ fun_fact: "I edit frames before I edit code."
 <br/><br/>
 
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<h2>🐍 Contribution Snake</h2>
-
-<p>
-  <sub>CODE • COMMIT • CONTRIBUTE</sub>
-</p>
-
-<br>
-
-<table>
-<tr>
-<td align="center">
-
 <img
   src="https://raw.githubusercontent.com/Shakir4Mahmud/Shakir4Mahmud/output/github-contribution-grid-snake-dark.svg"
   width="100%"
-  alt="Shakir4Mahmud GitHub Contribution Snake"
+  alt="Contribution Snake"
 />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td align="center">
-
-<code>shakir@github:~$ git log --oneline --graph --all</code>
-
-<br><br>
-
-<strong>Every contribution leaves a trace.</strong>
-
-<br>
-
-<sub>
-The graph grows. The code evolves. The journey continues.
-</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<p>
-  <code>LESS</code>
-  &nbsp;◼︎ ◼︎ ◼︎ ◼︎ ◼︎ ◼︎ ◼︎&nbsp;
-  <code>MORE</code>
-</p>
-
-<br>
-
-<p>
-  <a href="https://github.com/Shakir4Mahmud">
-    <img src="https://img.shields.io/badge/GITHUB-0b0f19?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Shakir4Mahmud/Shakir4Mahmud">
-    <img src="https://img.shields.io/badge/PROFILE-111827?style=for-the-badge&logo=github&logoColor=a855f7" />
-  </a>
-</p>
-
-<br>
-
-<p>
-  <sub>✦ Built with commits, curiosity & consistency ✦</sub>
-</p>
-
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 ## 📫 Connect With Me
