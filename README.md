@@ -6,19 +6,21 @@
 
 ## 🎬 About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="coding animation" />
+<img align="right" width="350"  src="./profile-card.svg" alt="coding animation" />
 
 ```yaml
 name: Shakir Mahmud
 location: Jamalpur, Bangladesh
 languages.real: English, Bangla
 role: Full Stack Web Developer (Learning)
-currently_learning: HTML · CSS · JavaScript · TypeScript · Git/GitHub · React · Tailwind CSS
+currently_learning: HTML · CSS · JavaScript · TypeScript · Git/GitHub · React ·
+                    Tailwind CSS
 also_into:
   - 📷 Photography & Cinematic Photo/Video Editing
   - 🤖 AI Tools & Experimentation
   - 🍫 Traveler
 fun_fact: "I edit frames before I edit code."
+
 ```
 
 <br clear="right"/>
@@ -79,6 +81,6 @@ fun_fact: "I edit frames before I edit code."
 
 <br/><br/>
 
-<sub>shot in Jamalpur, developed in the console</sub>
+<sub>Captured with Vision. Crafted with Code.</sub>
 
 </div>
