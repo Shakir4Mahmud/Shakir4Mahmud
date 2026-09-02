@@ -52,9 +52,7 @@ fun_fact: "I edit frames before I edit code."
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakir4mahmud&theme=react-dark&bg_color=0D0D0D&color=2EC4B6&line=FF6B35&point=FFFFFF&hide_border=true" width="95%"/>
 
 ## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/shakir4mahmud/shakir4mahmud/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/Shakir4Mahmud/Shakir4Mahmud/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 ## 🎞️ Trophy Case
 
 <img src="https://github-profile-trophy.vercel.app/?username=shakir4mahmud&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
